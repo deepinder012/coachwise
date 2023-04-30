@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "name": "Aerobic Exercises",
+    "timing":"10:00am - 12:00pm",
+    "place":"Indoor",
+    "price":700
+  },
+  {
+    "id": 1,
+    "name": "Body-Building",
+    "timing":"05:00am - 07:00am",
+    "place":"Indoor",
+    "price":700
+  },
+  {
+    "id": 2,
+    "name": "Yoga",
+    "timing":"04:00am - 06:00am",
+    "place":"Outdoor",
+    "price":700
+  },
+  {
+    "id": 3,
+    "name": "Body-Building",
+    "timing":"07:00am - 09:00am",
+    "place":"Indoor",
+    "price":700
+  },
+  {
+    "id": 4,
+    "name": "Yoga",
+    "timing":"06:00am - 10:00am",
+    "place":"Outdoor",
+    "price":700
+  },
+  {
+    "id": 5,
+    "name": "Body-Building",
+    "timing":"09:00am - 11:00am",
+    "place":"Indoor",
+    "price":700
+  },
+  {
+    "id": 6,
+    "name": "Yoga",
+    "timing":"04:00pm - 06:00pm",
+    "place":"Outdoor",
+    "price":700
+  },
+  {
+    "id": 7,
+    "name": "Body-Building",
+    "timing":"11:00am - 01:00pm",
+    "place":"Indoor",
+    "price":700
+  },
+  {
+    "id": 8,
+    "name": "Yoga",
+    "timing":"06:00pm - 08:00pm",
+    "place":"Outdoor",
+    "price":700
+  },
+  {
+    "id": 9,
+    "name": "Aerobic Exercises",
+    "timing":"06:00pm - 08:00pm",
+    "place":"Indoor",
+    "price":700
+  },
+  {
+    "id": 10,
+    "name": "Body-Building",
+    "timing":"04:00pm - 06:00pm",
+    "place":"Indoor",
+    "price":700
+  },
+  {
+    "id": 11,
+    "name": "Aerobic Exercises",
+    "timing":"04:00pm - 06:00pm",
+    "place":"Indoor",
+    "price":700
+  }
+]

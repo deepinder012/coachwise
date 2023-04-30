@@ -1,0 +1,15 @@
+.wt-blockquote {
+  position: relative;
+  background-color: #fff;
+  box-shadow: 5px 6px 9px -6px rgb(0, 0, 0 / 15);
+  padding: 1.875rem 1.875rem 1.875rem 3.75rem;
+}
+
+.wt-blockquote::before {
+  content: '\201C';
+  position: absolute;
+  width: 3.75rem;
+  margin: -1.5625rem 0 0 -2.5rem;
+  color: #007bff;
+  font-size: 3.75rem;
+}

@@ -1,0 +1,12 @@
+#profile-section{
+  background-color: #f4f5f7;
+}
+#profile-card{
+  border-radius: 0.5rem !important;
+}
+.gradient-custom{
+  /* old browsers */
+  background: #54B4D3;
+  /* new browsers */
+  background: linear-gradient(to right bottom,#54B4D3, #57491b );
+}
